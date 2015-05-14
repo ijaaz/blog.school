@@ -1,0 +1,25 @@
+# Journal for 14-08-14
+
+Today we went to the library for a little, and I got some apps to play with.
+
+I really like Evernote because of it's awesome collection of chrome extension, apps, and because it can contain anything without using a standard filesystem.
+
+I don't like Evernote due to it's inability to play nice with other services and such.
+
+I downloaded the IFTT app to use on the iPhone. The potential of this app seems huge. I finally have some interesting physical channels, that I can use everyday.
+
+I'm thinking of whether to just wait, and use simplenote on the cloud only, or actually move to a different service. It's a hard choice ether way.
+
+I biked some today, but it was really cold, so I didn't bike for long.
+
+Today I started packing my room, and I should have it finished by tomorrow.
+
+I really want a pair of fake or real leather gloves for winter. That way I can keep warm, while still having use of my fingers.
+
+I finally decided on wether to get an iPhone or an android phone. I choose an iPhone as my next phone. That is because it has better design, and will have extensions in the near future.
+
+I really wish to have a job at Starbucks because it is really close to where we live, and cause of coffee.
+
+I love coffee and what not.
+
+The iPhone I'll be getting is the iPhone 5s. The cool thing about the iPhone 5s is that it has a fingerprint scanner. Right now this finger scanner can only be used in limited ways, but in the near future - iOS 8 - every app will be able to access it. Imagine the possibilities of locks for different individual apps using a finger print

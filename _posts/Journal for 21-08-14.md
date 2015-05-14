@@ -1,0 +1,11 @@
+# Journal for 21-08-14
+
+Today I went to the library and Starbucks again.
+
+I stayed at the library for a couple hours. I read books, downloaded music and ebooks, and just all around enjoyed myself.
+
+I got a coffee at Starbucks than went to the library. I forgot that the library has it's own coffee.
+
+So yeah, got coffee, biked to the library, and started doing things.
+
+I finally got pinboard :) I also imported all of my old bookmarks from delicious and google bookmarks all onto pinboard.
