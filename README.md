@@ -1,4 +1,4 @@
-mediator
+<!-- mediator
 ========
 
 A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme
@@ -55,7 +55,7 @@ The template allows to add all major social plattforms to your site.
 Fill the the form for each plattform. If you leave the share_* entries empty, the sharing buttons below a post are not shown.  If you leave the **url** and **desc** empty the icons are not shown on the index page, but the share icons on the article pages remains untouched (Thanks to [Phil](https://github.com/philsturgeon))
 
 * **icon**:	name of social plattform (must match a name of [font-awsome](http://fortawesome.github.io/Font-Awesome/) icon set )
-* **url**:	url of your account
+* **url**: 	url of your account
 * **desc**: slogan of the plattform
 * **share_url**: share url
 * **share_title**: first part of url for the title
@@ -77,3 +77,4 @@ Licensing
 Contact
 -------
 I'd love to hear from you at [@dirkfabisch](https://twitter.com/dirkfabisch). Feel free to open issues if you run into trouble or have suggestions. Pull Requests always welcome.
+ -->
